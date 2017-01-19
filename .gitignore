@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+_notes
+vendor
+examples/webhooks.log
+tmp/*
+gocardless.env
