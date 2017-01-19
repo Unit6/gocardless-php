@@ -1,4 +1,6 @@
-# unit6/gocardless
+# unit6/gocardless 
+
+![Deprecation Notice](http://imgur.com/Eh4bAFP.jpg "Deprecated")
 
 A PHP client for interacting with the GoCardless API.
 
